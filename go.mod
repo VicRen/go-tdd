@@ -1,1 +1,3 @@
-module github.com/VicRen/go-tdd
+module github.com/vicren/go-tdd
+
+go 1.13
